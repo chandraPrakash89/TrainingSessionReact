@@ -2,22 +2,14 @@ import logo from './logo.svg';
 import './App.css';
 
 function App() {
+
+  const date = new Date();
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div>
+      <h1>Name: Chandra Prakash</h1>
+      <h2>Today Date: {date.getDate()}</h2>
+      <h3>Institute: UTU</h3>
+      <h4>JS Operation: {2+3}</h4>
     </div>
   );
 }
