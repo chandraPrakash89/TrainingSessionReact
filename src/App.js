@@ -10,7 +10,6 @@ function App() {
       setValue(value + num);
     } else if(operation === "decrement") {
        setValue(value - num);
-       console.log(value, "value");
     }
   }
 
