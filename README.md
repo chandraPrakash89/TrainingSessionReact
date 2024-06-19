@@ -1,3 +1,9 @@
+# Task: 
+ To create 5 increment & 5 decrement button and handle with single function and useState hook.
+
+# Task Date: 
+ 19 Jun 2024
+
 # increment - decrement code
   code is written in app.js & with index.css
 
