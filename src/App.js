@@ -14,7 +14,7 @@ function App() {
   }
 
   return <div>
-    <h1>Value Change here: <span class="inc-dec-value">{value}</span></h1>
+    <h1>Value Change here: <span className="inc-dec-value">{value}</span></h1>
     <h2>Increment By: </h2>
     <button onClick={() => handleClick(5 , "increment")}>Increment By 5</button>
     <button onClick={() => handleClick(10, "increment")}>Increment By 10</button>
