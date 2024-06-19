@@ -1,14 +1,20 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
 import './index.css';
-import App from './App';
+import Car from './Car';
 import reportWebVitals from './reportWebVitals';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+  // <React.StrictMode>
+  //   <App />
+  // </React.StrictMode>
+  <div>
+    <Car color="red" price="30k" />
+    <Car color="blue" price="60k" />
+    <Car color="black" price="90k" />
+
+  </div>
 );
 
 // If you want to start measuring performance in your app, pass a function
