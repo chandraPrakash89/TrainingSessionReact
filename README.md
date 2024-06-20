@@ -11,8 +11,7 @@
 # Task Date: 
  20JUN Jun 2024
 
-# increment - decrement code
-  code is written in app.js & with index.css
+
 
 # Getting Started with Create React App
 
