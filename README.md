@@ -9,13 +9,13 @@
  20JUN Jun 2024
 
 # Routes For Login and SignUp
- Login:    /login
- SignUp:   /signup
+ Login:    /login <br/>
+ SignUp:   /signup <br/>
  & default route on Login Page
 
  # package used
- npm install @mui/material @emotion/react @emotion/styled
- npm install @mui/material @mui/icons-material
+ npm install @mui/material @emotion/react @emotion/styled  <br/>
+ npm install @mui/material @mui/icons-material  <br/>
 
 
 # Getting Started with Create React App
