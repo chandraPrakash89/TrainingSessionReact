@@ -9,8 +9,8 @@
  20JUN Jun 2024
 
 # Routes For Login and SignUp
- /login
- /signup
+ Login:    /login
+ SignUp:   /signup
  & default route on Login Page
 
  # package used
