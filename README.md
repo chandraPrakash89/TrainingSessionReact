@@ -2,14 +2,20 @@
  /**
  * Use Hooks with React Form  
  * Use Material UI
+ * Use Axios with Alert component
  */
 
 # Task Date: 
  20JUN Jun 2024
 
+# Routes For Login and SignUp
+ /login
+ /signup
+ & default route on Login Page
+
  # package used
  npm install @mui/material @emotion/react @emotion/styled
-
+ npm install @mui/material @mui/icons-material
 
 
 # Getting Started with Create React App
